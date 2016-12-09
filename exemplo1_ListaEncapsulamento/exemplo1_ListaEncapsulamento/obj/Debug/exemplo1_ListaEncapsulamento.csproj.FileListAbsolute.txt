@@ -1,0 +1,6 @@
+C:\Users\Renato\Desktop\exemplo1_ListaEncapsulamento\exemplo1_ListaEncapsulamento\bin\Debug\exemplo1_ListaEncapsulamento.exe.config
+C:\Users\Renato\Desktop\exemplo1_ListaEncapsulamento\exemplo1_ListaEncapsulamento\bin\Debug\exemplo1_ListaEncapsulamento.exe
+C:\Users\Renato\Desktop\exemplo1_ListaEncapsulamento\exemplo1_ListaEncapsulamento\bin\Debug\exemplo1_ListaEncapsulamento.pdb
+C:\Users\Renato\Desktop\exemplo1_ListaEncapsulamento\exemplo1_ListaEncapsulamento\obj\Debug\exemplo1_ListaEncapsulamento.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Desktop\exemplo1_ListaEncapsulamento\exemplo1_ListaEncapsulamento\obj\Debug\exemplo1_ListaEncapsulamento.exe
+C:\Users\Renato\Desktop\exemplo1_ListaEncapsulamento\exemplo1_ListaEncapsulamento\obj\Debug\exemplo1_ListaEncapsulamento.pdb
